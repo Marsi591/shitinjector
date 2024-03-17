@@ -43,7 +43,7 @@ Fork it add Features and Create an Pull Request as Soon as i Accept it is Added
 
 ## Authors
 
-* **Marsi** - ** - [Marsi]() - **
+* **Marsi** - ** - [Marsi]() - ** THE GUI
 
 
 * []()
