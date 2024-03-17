@@ -17,19 +17,21 @@
 
 I still Need to Add the Inject Functions then its Working Everything can be Changed youll find out Yourself on how to Change it if your not Brain Dead
 
-## Getting Started
+## Picture
+![image](https://github.com/Marsi591/shitinjector/assets/118113258/1b8d5402-79b9-41ea-b47f-574c916b4a16)
+
 
 
 ### Prerequisites
 
-FontAwesome.Sharp: Install it via the NuggesManager 
+FontAwesome.Sharp: Install it via the NuggesManager if its Not Already Installed
 
 ### Installation
 
 1. Download 
 2. Open the .sln File
 3. Go to the Nugget Manager and Search for FontAwesome.Sharp
-4. Install it
+4. Install it if its Not Already Installed
 5. Build it in Debug
 
 
